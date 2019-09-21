@@ -3,4 +3,4 @@
 FROM hpy253215039/oraclejdk-linux-64:8u221
 MAINTAINER      hpy253215039@163.com
 
-COPY skywalking/skywalking-agent-6.4.0.jar /app/3rd/skywalking-agent/
+ADD skywalking-agent/6.4.0/ /app/3rd/skywalking-agent/

@@ -13,7 +13,7 @@
 1.sh docker.build.6.4.0.sh
 进行镜像制作，将步骤1的jdk压入镜像。
 
-本工程使用的是oracle-jdk8u181版本，可以根据自己需要更换版本，本工程包含JDK（太大无法上传到github）。
+本工程使用的是oracle-jdk8u181版本，可以根据自己需要更换版本，本工程不包含JDK（太大无法上传到github）。
 
 2.基础镜像位于：https://github.com/hepyu/oraclejdk-docker-image
 
